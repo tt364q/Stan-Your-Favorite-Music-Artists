@@ -16,7 +16,7 @@ A web application that retrieves your favorite music artists bio and debut to th
 ![Stan](imgs/Stan.png)
 
 ## Getting Started
-[Click Here](#) to stan your favorite music artists!
+[https://tt364q.github.io/Stan-Your-Favorite-Music-Artists/ ](#) to stan your favorite music artists!
 
 ## Future Enhancements 
 - Watch your favorite artists most streamed music video ever.
