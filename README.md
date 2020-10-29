@@ -20,3 +20,8 @@ A web application that retrieves your favorite music artists bio and debut to th
 
 ## Future Enhancements 
 - Watch your favorite artists most streamed music video ever.
+
+## Screenshots of Webpage
+![Stan](imgs/SS1.png)
+
+![Stan](imgs/SS2.png)
